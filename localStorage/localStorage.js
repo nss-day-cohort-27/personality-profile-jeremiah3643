@@ -36,8 +36,8 @@ statementsDisagree = {
     why: "I think these questions reflect I don't put much thought into organization and that I prefer to be in the background"
 }
 people = {
-    person1: "Bill Gates",
-    person2: "Albert Einstein",
+    person1: "Bill Gates!",
+    person2: "Albert Einstein!!",
     person3: "Blaise Pascal",
     person4: "Isaac Newton",
 }
